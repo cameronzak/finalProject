@@ -33,13 +33,28 @@ var drawBars1 = function(gradRates,target,graph1,xScale,yScale)
         })
         .attr("y",function(gradRate)
         { 
-                return yScale(gradRate.saGradRate) 
+            if (gradRate.saGradRate - gradRate.sbGradRate > 0)
+            {
+                return yScale(gradRate.saGradRate - gradRate.sbGradRate)
+            }
+            else
+            {
+                return yScale(0)
+            } 
 
         })
         .attr("width",xScale.bandwidth)
         .attr("height",function(gradRate)
         { 
-            return graph1.height - yScale(gradRate.saGradRate)
+            if (gradRate.saGradRate - gradRate.sbGradRate > 0)
+            {
+                return graph1.height/2 - yScale(gradRate.saGradRate - gradRate.sbGradRate)
+            }
+            else 
+            {
+                return yScale(gradRate.saGradRate - gradRate.sbGradRate) - graph1.height/2
+            }
+    
         });
 }
 
@@ -52,7 +67,7 @@ var drawAxes1 = function(graph1,margins,xScale,yScale)
         .append("g")
     
     axes.append("g")
-        .attr("transform","translate("+margins.left+","+(margins.top+graph1.height)+")")
+        .attr("transform","translate("+margins.left+","+(margins.top+graph1.height/2)+")")
         .call(xAxis)
     axes.append("g")
         .attr("transform","translate("+margins.left+","+(margins.top)+")")
@@ -117,13 +132,13 @@ var initGraph1 = function(gradRates)
         .range([0,graph1.width])
     
     var yScale =d3.scaleLinear()
-        .domain([0,100])
+        .domain([-100,100])
         .range([graph1.height,0])
     
     drawAxes1(graph1,margins,xScale,yScale);
     drawBars1(gradRates,target,graph1,xScale,yScale);
     drawLabels1(graph1,margins);
-    drawLegend1(graph1,margins);
+    //drawLegend1(graph1,margins);
     
 }
 

@@ -1,344 +1,352 @@
-﻿school,saGradRate,sbGradRate
-Alabama A&M University,46,30
-University of Alabama at Birmingham,67,54
-Alabama State University,52,26
-University of Alabama,70,67
-Auburn University,66,74
-Jacksonville State University,60,34
-Samford University,72,72
-University of South Alabama,61,37
-Troy University,65,37
-Arizona State University,63,64
-University of Arizona,61,61
-Grand Canyon University,54,40
-Northern Arizona University,60,53
-University of Arkansas at Little Rock,57,28
-"University of Arkansas, Fayetteville",55,63
-"University of Arkansas, Pine Bluff",48,26
-Arkansas State University,61,41
-University of Central Arkansas,58,43
-California Polytechnic State University,69,81
-"California State University, Bakersfield",49,40
-"California State University, Fresno",67,56
-"California State University, Fullerton",55,61
-Long Beach State University,65,67
-"California State University, Northridge",60,50
-"California State University, Sacramento",56,48
-"University of California, Berkeley",70,91
-"University of California, Davis",81,85
-"University of California, Irvine",70,87
-"University of California, Los Angeles",73,91
-"University of California, Riverside",63,72
-"University of California, Santa Barbara",65,81
-Loyola Marymount University,72,80
-University of the Pacific,66,68
-Pepperdine University,69,85
-San Diego State University,64,71
-University of San Diego,70,79
-University of San Francisco,60,73
-San Jose State University,64,58
-Santa Clara University,74,87
-Saint Mary's College of California,71,72
-University of Southern California,75,92
-"University of Colorado, Boulder",66,70
-Colorado State University,67,67
-University of Denver,73,77
-University of Northern Colorado,66,48
-Central Connecticut State University,57,54
-University of Connecticut,68,82
-Fairfield University,83,81
-University of Hartford,69,57
-Quinnipiac University,72,76
-Sacred Heart University,72,66
-Delaware State University,55,41
-University of Delaware,73,82
-American University,74,81
-George Washington University,82,82
-Georgetown University,88,94
-Howard University,69,61
-Bethune-Cookman University,51,39
-University of Central Florida,58,70
-Florida A&M University,53,42
-Florida Atlantic University,58,49
-Florida International University,61,56
-Florida State University,60,80
-University of Florida,63,87
-Jacksonville University,54,42
-University of Miami (Florida),59,82
-University of North Florida,65,55
-University of South Florida,67,68
-Stetson University,63,63
-Georgia Institute of Technology,70,84
-Georgia Southern University,60,51
-Georgia State University,68,53
-University of Georgia,67,85
-Mercer University,61,63
-Savannah State University,44,28
-"University of Hawaii, Manoa",63,58
-Boise State University,69,40
-Idaho State University,56,29
-University of Idaho,56,57
-Bradley University,75,74
-Chicago State University,43,14
-DePaul University,71,72
-Eastern Illinois University,67,58
-University of Illinois at Chicago,75,59
-University of Illinois Urbana-Champaign,77,85
-Illinois State University,69,71
-Loyola University Chicago,77,75
-Northern Illinois University,63,48
-Northwestern University,91,93
-Southern Illinois University at Carbondale,67,44
-Southern Illinois University Edwardsville,67,49
-Western Illinois University,63,53
-Ball State University,71,61
-Butler University,75,77
-University of Evansville,68,69
-Purdue University Fort Wayne,61,25
-Indiana University-Purdue University Indianapolis,63,47
-Indiana State University,59,39
-"Indiana University, Bloomington",69,77
-University of Notre Dame,93,96
-Valparaiso University,74,68
-Drake University,77,70
-Iowa State University,70,72
-University of Iowa,76,72
-University of Northern Iowa,70,66
-University of Kansas,63,62
-Kansas State University,68,62
-Wichita State University,57,45
-Eastern Kentucky University,60,45
-University of Kentucky,61,62
-University of Louisville,69,53
-Morehead State University,62,45
-Murray State University,62,50
-Northern Kentucky University,63,38
-Western Kentucky University,63,51
-Grambling State University,54,33
-Louisiana State University,59,65
-Louisiana Tech University,60,53
-McNeese State University,65,42
-University of New Orleans,20,34
-Nicholls State University,53,44
-University of Louisiana at Monroe,55,41
-Northwestern State University,57,37
-Southeastern Louisiana University,58,39
-"Southern University, Baton Rouge",46,31
-University of Louisiana at Lafayette,57,46
-Tulane University,71,83
-"University of Maine, Orono",66,59
-Coppin State University,39,19
-Loyola University Maryland,86,82
-"University of Maryland, Baltimore County",61,63
-"University of Maryland, College Park",67,86
-University of Maryland Eastern Shore,42,36
-Morgan State University,46,33
-Mount St. Mary's University,72,67
-Towson University,69,70
-Boston College,82,92
-Boston University,80,86
-Harvard University,93,97
-College of the Holy Cross,87,92
-University of Massachusetts Lowell,70,57
-"University of Massachusetts, Amherst",68,77
-Northeastern University,74,85
-Central Michigan University,65,57
-University of Detroit Mercy,71,61
-Eastern Michigan University,63,40
-University of Michigan,81,91
-Michigan State University,75,79
-Oakland University,66,46
-Western Michigan University,66,53
-"University of Minnesota, Twin Cities",80,79
-Alcorn State University,52,34
-Jackson State University,57,39
-University of Mississippi,61,60
-Mississippi Valley State University,45,28
-Mississippi State University,63,59
-The University of Southern Mississippi,61,47
-"University of Missouri, Columbia",71,69
-University of Missouri-Kansas City,66,50
-Saint Louis University,73,75
-Southeast Missouri State University,67,50
-Missouri State University,63,54
-Montana State University-Bozeman,67,53
-University of Montana,63,49
-Creighton University,72,78
-University of Nebraska Omaha,46,46
-"University of Nebraska, Lincoln",72,67
-"University of Nevada, Las Vegas",60,41
-"University of Nevada, Reno",55,56
-University of New Hampshire,79,77
-"Fairleigh Dickinson University, Metropolitan Campus",57,48
-Monmouth University,69,69
-New Jersey Institute of Technology,59,61
-Princeton University,94,97
-Rider University,67,64
-"Rutgers, The State University of New Jersey, New Brunswick",69,80
-Saint Peter's University,68,54
-Seton Hall University,74,65
-University of New Mexico,57,48
-New Mexico State University,60,45
-Canisius College,78,70
-Colgate University,87,91
-Fordham University,84,80
-Hofstra University,63,62
-Iona College,70,64
-Long Island University-Brooklyn Campus,63,29
-Manhattan College,76,73
-Marist College,79,81
-Niagara University,68,65
-St. Bonaventure University,74,66
-St. Francis College Brooklyn,73,52
-Siena College,79,77
-St. John's University (New York),66,58
-University at Albany,68,66
-Binghamton University,73,81
-"University at Buffalo, the State University of New York",63,74
-Stony Brook University,62,70
-Syracuse University,72,82
-Wagner College,67,67
-Appalachian State University,63,71
-Campbell University,62,52
-Davidson College,92,94
-Duke University,89,95
-East Carolina University,69,61
-Elon University,81,82
-Gardner-Webb University,63,49
-High Point University,58,64
-North Carolina A&T State University,53,44
-University of North Carolina Asheville,73,62
-"University of North Carolina, Chapel Hill",68,91
-The University of North Carolina at Charlotte,69,55
-The University of North Carolina at Greensboro,50,55
-North Carolina Central University,54,44
-North Carolina State University,64,77
-University of North Carolina Wilmington,69,71
-Wake Forest University,76,88
-Western Carolina University,59,58
-University of North Dakota,65,54
-North Dakota State University,67,56
-University of Akron,66,43
-Bowling Green State University,74,55
-University of Cincinnati,68,66
-Cleveland State University,71,46
-University of Dayton,77,77
-Kent State University,69,56
-Miami University (Ohio),78,79
-The Ohio State University,73,83
-Ohio University,74,73
-University of Toledo,71,43
-Wright State University,64,37
-Xavier University,77,72
-Youngstown State University,60,33
-Oklahoma State University,47,62
-University of Oklahoma,60,67
-Oral Roberts University,51,55
-The University of Tulsa,72,70
-Oregon State University,54,64
-University of Oregon,66,71
-Portland State University,57,43
-University of Portland,78,81
-Bucknell University,89,89
-Drexel University,77,69
-Duquesne University,72,76
-La Salle University,80,66
-Lafayette College,87,90
-Lehigh University,82,87
-Pennsylvania State University,79,86
-University of Pennsylvania,95,95
-University of Pittsburgh,64,82
-Robert Morris University,69,61
-Saint Francis University (Pennsylvania),68,68
-Saint Joseph's University,80,78
-Temple University,74,70
-Villanova University,81,90
-Bryant University,75,78
-Providence College,80,85
-University of Rhode Island,63,63
-Charleston Southern University,51,36
-College of Charleston (South Carolina),69,68
-The Citadel,67,70
-Clemson University,67,82
-Furman University,78,83
-Presbyterian College,64,67
-"University of South Carolina, Columbia",67,73
-Coastal Carolina University,56,43
-South Carolina State University,60,37
-University of South Carolina Upstate,47,43
-Winthrop University,60,55
-Wofford College,82,80
-South Dakota State University,73,55
-University of South Dakota,68,53
-Austin Peay State University,61,32
-Belmont University,84,70
-Lipscomb University,66,58
-East Tennessee State University,58,42
-University of Memphis,60,43
-Middle Tennessee State University,64,44
-University of Tennessee at Chattanooga,64,43
-"University of Tennessee, Knoxville",64,70
-University of Tennessee at Martin,59,48
-Tennessee State University,47,33
-Tennessee Technological University,68,51
-Vanderbilt University,85,92
-Abilene Christian University,51,62
-Baylor University,70,73
-Texas A&M University-Corpus Christi,49,37
-Houston Baptist University,60,42
-University of Houston,58,51
-University of the Incarnate Word,59,51
-Lamar University,54,32
-University of North Texas,62,52
-The University of Texas Rio Grande Valley,53,42
-Prairie View A&M University,51,30
-Rice University,81,92
-Sam Houston State University,57,52
-Southern Methodist University,67,79
-Stephen F. Austin State University,52,43
-Texas State University,64,54
-"Texas A&M University, College Station",70,82
-University of Texas at Arlington,57,47
-University of Texas at Austin,68,81
-University of Texas at El Paso,58,39
-Texas Christian University,65,78
-University of Texas at San Antonio,61,34
-Texas Southern University,46,18
-Texas Tech University,62,60
-Brigham Young University,67,81
-Southern Utah University,62,41
-Utah State University,67,48
-Utah Valley University,59,25
-University of Utah,68,61
-Weber State University,59,36
-University of Vermont,71,75
-College of William & Mary,88,91
-George Mason University,74,69
-Hampton University,61,61
-James Madison University,79,82
-Liberty University,71,48
-Longwood University,69,67
-Norfolk State University,54,37
-Old Dominion University,68,52
-Radford University,69,58
-University of Richmond,82,87
-Virginia Polytechnic Institute and State University,67,84
-Virginia Commonwealth University,64,62
-University of Virginia,79,94
-Virginia Military Institute,71,75
-Eastern Washington University,60,47
-Gonzaga University,76,84
-Seattle University,79,76
-Washington State University,60,65
-University of Washington,73,84
-Marshall University,65,46
-West Virginia University,64,57
-Marquette University,77,80
-University of Wisconsin-Green Bay,66,49
-University of Wisconsin-Madison,72,86
-University of Wisconsin-Milwaukee,63,45
-University of Wyoming,62,56
-Stanford University,94,94
-Purdue University,73,76
-Florida Gulf Coast University,53,46
-Kennesaw State University,53,42
+﻿school,saGradRate,sbGradRate,conference
+Alabama A&M University,46,30,Southland Conference
+University of Alabama at Birmingham,67,54,Southwestern Athletic Conf.
+Alabama State University,52,26,Southwestern Athletic Conf.
+University of Alabama,70,67,Southwestern Athletic Conf.
+Auburn University,66,74,Patriot League
+Jacksonville State University,60,34,Sun Belt Conference
+Samford University,72,72,Pac-12 Conference
+University of South Alabama,61,37,Sun Belt Conference
+Troy University,65,37,Southeastern Conference
+Arizona State University,63,64,Ohio Valley Conference
+University of Arizona,61,61,Mid-American Conference
+Grand Canyon University,54,40,Big 12 Conference
+Northern Arizona University,60,53,Ohio Valley Conference
+University of Arkansas at Little Rock,57,28,Mid-Eastern Athletic Conf.
+"University of Arkansas, Fayetteville",55,63,America East Conference
+"University of Arkansas, Pine Bluff",48,26,Mountain West Conference
+Arkansas State University,61,41,Atlantic Coast Conference
+University of Central Arkansas,58,43,Patriot League
+California Polytechnic State University,69,81,Mid-American Conference
+"California State University, Bakersfield",49,40,Missouri Valley Conference
+"California State University, Fresno",67,56,West Coast Conference
+"California State University, Fullerton",55,61,The Ivy League
+Long Beach State University,65,67,Northeast Conference
+"California State University, Northridge",60,50,Patriot League
+"California State University, Sacramento",56,48,Big East Conference
+"University of California, Berkeley",70,91,Big West Conference
+"University of California, Davis",81,85,Western Athletic Conference
+"University of California, Irvine",70,87,Mountain West Conference
+"University of California, Los Angeles",73,91,Big West Conference
+"University of California, Riverside",63,72,Big West Conference
+"University of California, Santa Barbara",65,81,Big Sky Conference
+Loyola Marymount University,72,80,Big South Conference
+University of the Pacific,66,68,Metro Atlantic Athletic Conference
+Pepperdine University,69,85,Northeast Conference
+San Diego State University,64,71,Mid-American Conference
+University of San Diego,70,79,Big South Conference
+University of San Francisco,60,73,Western Athletic Conference
+San Jose State University,64,58,Atlantic Coast Conference
+Santa Clara University,74,87,Horizon League
+Saint Mary's College of California,71,72,Sun Belt Conference
+University of Southern California,75,92,Patriot League
+"University of Colorado, Boulder",66,70,Colonial Athletic Association
+Colorado State University,67,67,Patriot League
+University of Denver,73,77,Colonial Athletic Association
+University of Northern Colorado,66,48,Mountain West Conference
+Central Connecticut State University,57,54,The Ivy League
+University of Connecticut,68,82,Mid-Eastern Athletic Conf.
+Fairfield University,83,81,The Ivy League
+University of Hartford,69,57,Big East Conference
+Quinnipiac University,72,76,The Ivy League
+Sacred Heart University,72,66,Atlantic 10 Conference
+Delaware State University,55,41,Mid-Eastern Athletic Conf.
+University of Delaware,73,82,Big East Conference
+American University,74,81,Missouri Valley Conference
+George Washington University,82,82,Colonial Athletic Association
+Georgetown University,88,94,Atlantic Coast Conference
+Howard University,69,61,Atlantic 10 Conference
+Bethune-Cookman University,51,39,American Athletic Conference
+University of Central Florida,58,70,Southern Conference
+Florida A&M University,53,42,Ohio Valley Conference
+Florida Atlantic University,58,49,Ohio Valley Conference
+Florida International University,61,56,Mid-American Conference
+Florida State University,60,80,Big Sky Conference
+University of Florida,63,87,Colonial Athletic Association
+Jacksonville University,54,42,Metro Atlantic Athletic Conference
+University of Miami (Florida),59,82,Northeast Conference
+University of North Florida,65,55,Mid-Eastern Athletic Conf.
+University of South Florida,67,68,Conference USA
+Stetson University,63,63,ASUN Conference
+Georgia Institute of Technology,70,84,Conference USA
+Georgia Southern University,60,51,Atlantic Coast Conference
+Georgia State University,68,53,Atlantic 10 Conference
+University of Georgia,67,85,Southern Conference
+Mercer University,61,63,Big South Conference
+Savannah State University,44,28,Atlantic 10 Conference
+"University of Hawaii, Manoa",63,58,Atlantic 10 Conference
+Boise State University,69,40,Big East Conference
+Idaho State University,56,29,Atlantic Coast Conference
+University of Idaho,56,57,Sun Belt Conference
+Bradley University,75,74,Sun Belt Conference
+Chicago State University,43,14,West Coast Conference
+DePaul University,71,72,Southwestern Athletic Conf.
+Eastern Illinois University,67,58,Western Athletic Conference
+University of Illinois at Chicago,75,59,Mid-Eastern Athletic Conf.
+University of Illinois Urbana-Champaign,77,85,The Ivy League
+Illinois State University,69,71,Big South Conference
+Loyola University Chicago,77,75,Colonial Athletic Association
+Northern Illinois University,63,48,Southland Conference
+Northwestern University,91,93,Mid-Eastern Athletic Conf.
+Southern Illinois University at Carbondale,67,44,Big Sky Conference
+Southern Illinois University Edwardsville,67,49,Missouri Valley Conference
+Western Illinois University,63,53,Missouri Valley Conference
+Ball State University,71,61,Horizon League
+Butler University,75,77,Big Ten Conference
+University of Evansville,68,69,Metro Atlantic Athletic Conference
+Purdue University Fort Wayne,61,25,Big 12 Conference
+Indiana University-Purdue University Indianapolis,63,47,Southwestern Athletic Conf.
+Indiana State University,59,39,Ohio Valley Conference
+"Indiana University, Bloomington",69,77,ASUN Conference
+University of Notre Dame,93,96,Colonial Athletic Association
+Valparaiso University,74,68,Big 12 Conference
+Drake University,77,70,ASUN Conference
+Iowa State University,70,72,Mid-American Conference
+University of Iowa,76,72,Atlantic 10 Conference
+University of Northern Iowa,70,66,Patriot League
+University of Kansas,63,62,Southland Conference
+Kansas State University,68,62,Patriot League
+Wichita State University,57,45,Big South Conference
+Eastern Kentucky University,60,45,ASUN Conference
+University of Kentucky,61,62,Big West Conference
+University of Louisville,69,53,Northeast Conference
+Morehead State University,62,45,Big South Conference
+Murray State University,62,50,Southeastern Conference
+Northern Kentucky University,63,38,Conference USA
+Western Kentucky University,63,51,West Coast Conference
+Grambling State University,54,33,Missouri Valley Conference
+Louisiana State University,59,65,Patriot League
+Louisiana Tech University,60,53,Metro Atlantic Athletic Conference
+McNeese State University,65,42,Metro Atlantic Athletic Conference
+University of New Orleans,20,34,Big East Conference
+Nicholls State University,53,44,Conference USA
+University of Louisiana at Monroe,55,41,Southland Conference
+Northwestern State University,57,37,Southern Conference
+Southeastern Louisiana University,58,39,Mid-American Conference
+"Southern University, Baton Rouge",46,31,Big Ten Conference
+University of Louisiana at Lafayette,57,46,Conference USA
+Tulane University,71,83,Southeastern Conference
+"University of Maine, Orono",66,59,Southwestern Athletic Conf.
+Coppin State University,39,19,Missouri Valley Conference
+Loyola University Maryland,86,82,Metro Atlantic Athletic Conference
+"University of Maryland, Baltimore County",61,63,Big Sky Conference
+"University of Maryland, College Park",67,86,Ohio Valley Conference
+University of Maryland Eastern Shore,42,36,Mid-Eastern Athletic Conf.
+Morgan State University,46,33,Northeast Conference
+Mount St. Mary's University,72,67,Ohio Valley Conference
+Towson University,69,70,ASUN Conference
+Boston College,82,92,Western Athletic Conference
+Boston University,80,86,Metro Atlantic Athletic Conference
+Harvard University,93,97,Southland Conference
+College of the Holy Cross,87,92,Mid-Eastern Athletic Conf.
+University of Massachusetts Lowell,70,57,Mid-Eastern Athletic Conf.
+"University of Massachusetts, Amherst",68,77,Mid-Eastern Athletic Conf.
+Northeastern University,74,85,Atlantic Coast Conference
+Central Michigan University,65,57,The Summit League
+University of Detroit Mercy,71,61,Colonial Athletic Association
+Eastern Michigan University,63,40,Big Sky Conference
+University of Michigan,81,91,Mid-American Conference
+Michigan State University,75,79,Horizon League
+Oakland University,66,46,Southland Conference
+Western Michigan University,66,53,Big Ten Conference
+"University of Minnesota, Twin Cities",80,79,Horizon League
+Alcorn State University,52,34,Mid-American Conference
+Jackson State University,57,39,Big 12 Conference
+University of Mississippi,61,60,Conference USA
+Mississippi Valley State University,45,28,The Summit League
+Mississippi State University,63,59,Pac-12 Conference
+The University of Southern Mississippi,61,47,Big Ten Conference
+"University of Missouri, Columbia",71,69,West Coast Conference
+University of Missouri-Kansas City,66,50,Big Sky Conference
+Saint Louis University,73,75,Southwestern Athletic Conf.
+Southeast Missouri State University,67,50,Big South Conference
+Missouri State University,63,54,The Ivy League
+Montana State University-Bozeman,67,53,Big East Conference
+University of Montana,63,49,Big Ten Conference
+Creighton University,72,78,The Summit League
+University of Nebraska Omaha,46,46,Metro Atlantic Athletic Conference
+"University of Nebraska, Lincoln",72,67,Big South Conference
+"University of Nevada, Las Vegas",60,41,Conference USA
+"University of Nevada, Reno",55,56,Metro Atlantic Athletic Conference
+University of New Hampshire,79,77,Northeast Conference
+"Fairleigh Dickinson University, Metropolitan Campus",57,48,Big Ten Conference
+Monmouth University,69,69,Northeast Conference
+New Jersey Institute of Technology,59,61,Northeast Conference
+Princeton University,94,97,Atlantic 10 Conference
+Rider University,67,64,Atlantic 10 Conference
+"Rutgers, The State University of New Jersey, New Brunswick",69,80,West Coast Conference
+Saint Peter's University,68,54,Metro Atlantic Athletic Conference
+Seton Hall University,74,65,Southland Conference
+University of New Mexico,57,48,Southern Conference
+New Mexico State University,60,45,Mountain West Conference
+Canisius College,78,70,Mountain West Conference
+Colgate University,87,91,West Coast Conference
+Fordham University,84,80,Mid-Eastern Athletic Conf.
+Hofstra University,63,62,Western Athletic Conference
+Iona College,70,64,Big East Conference
+Long Island University-Brooklyn Campus,63,29,Metro Atlantic Athletic Conference
+Manhattan College,76,73,Mid-Eastern Athletic Conf.
+Marist College,79,81,The Summit League
+Niagara University,68,65,Ohio Valley Conference
+St. Bonaventure University,74,66,Southland Conference
+St. Francis College Brooklyn,73,52,Missouri Valley Conference
+Siena College,79,77,Ohio Valley Conference
+St. John's University (New York),66,58,American Athletic Conference
+University at Albany,68,66,Southwestern Athletic Conf.
+Binghamton University,73,81,Big Sky Conference
+"University at Buffalo, the State University of New York",63,74,Atlantic 10 Conference
+Stony Brook University,62,70,Northeast Conference
+Syracuse University,72,82,Big East Conference
+Wagner College,67,67,Pac-12 Conference
+Appalachian State University,63,71,Southland Conference
+Campbell University,62,52,ASUN Conference
+Davidson College,92,94,America East Conference
+Duke University,89,95,Atlantic Coast Conference
+East Carolina University,69,61,American Athletic Conference
+Elon University,81,82,Ohio Valley Conference
+Gardner-Webb University,63,49,Ohio Valley Conference
+High Point University,58,64,Southland Conference
+North Carolina A&T State University,53,44,Southeastern Conference
+University of North Carolina Asheville,73,62,Big 12 Conference
+"University of North Carolina, Chapel Hill",68,91,Southwestern Athletic Conf.
+The University of North Carolina at Charlotte,69,55,Sun Belt Conference
+The University of North Carolina at Greensboro,50,55,Big 12 Conference
+North Carolina Central University,54,44,Southern Conference
+North Carolina State University,64,77,Big Ten Conference
+University of North Carolina Wilmington,69,71,Conference USA
+Wake Forest University,76,88,Southern Conference
+Western Carolina University,59,58,Conference USA
+University of North Dakota,65,54,Western Athletic Conference
+North Dakota State University,67,56,American Athletic Conference
+University of Akron,66,43,Colonial Athletic Association
+Bowling Green State University,74,55,Sun Belt Conference
+University of Cincinnati,68,66,American Athletic Conference
+Cleveland State University,71,46,Mountain West Conference
+University of Dayton,77,77,Patriot League
+Kent State University,69,56,Patriot League
+Miami University (Ohio),78,79,America East Conference
+The Ohio State University,73,83,Mid-American Conference
+Ohio University,74,73,Mid-American Conference
+University of Toledo,71,43,Southeastern Conference
+Wright State University,64,37,Conference USA
+Xavier University,77,72,Pac-12 Conference
+Youngstown State University,60,33,Sun Belt Conference
+Oklahoma State University,47,62,Southeastern Conference
+University of Oklahoma,60,67,Southwestern Athletic Conf.
+Oral Roberts University,51,55,Pac-12 Conference
+The University of Tulsa,72,70,Big West Conference
+Oregon State University,54,64,Big West Conference
+University of Oregon,66,71,Pac-12 Conference
+Portland State University,57,43,Big West Conference
+University of Portland,78,81,Big West Conference
+Bucknell University,89,89,Southland Conference
+Drexel University,77,69,American Athletic Conference
+Duquesne University,72,76,American Athletic Conference
+La Salle University,80,66,Pac-12 Conference
+Lafayette College,87,90,American Athletic Conference
+Lehigh University,82,87,Atlantic 10 Conference
+Pennsylvania State University,79,86,Colonial Athletic Association
+University of Pennsylvania,95,95,The Summit League
+University of Pittsburgh,64,82,Horizon League
+Robert Morris University,69,61,Missouri Valley Conference
+Saint Francis University (Pennsylvania),68,68,Southeastern Conference
+Saint Joseph's University,80,78,Southeastern Conference
+Temple University,74,70,America East Conference
+Villanova University,81,90,Big West Conference
+Bryant University,75,78,American Athletic Conference
+Providence College,80,85,Big Sky Conference
+University of Rhode Island,63,63,Horizon League
+Charleston Southern University,51,36,Big Ten Conference
+College of Charleston (South Carolina),69,68,Big Ten Conference
+The Citadel,67,70,Big 12 Conference
+Clemson University,67,82,Southeastern Conference
+Furman University,78,83,Sun Belt Conference
+Presbyterian College,64,67,Sun Belt Conference
+"University of South Carolina, Columbia",67,73,Atlantic Coast Conference
+Coastal Carolina University,56,43,America East Conference
+South Carolina State University,60,37,Mid-Eastern Athletic Conf.
+University of South Carolina Upstate,47,43,America East Conference
+Winthrop University,60,55,Big Ten Conference
+Wofford College,82,80,America East Conference
+South Dakota State University,73,55,Atlantic 10 Conference
+University of South Dakota,68,53,American Athletic Conference
+Austin Peay State University,61,32,Atlantic Coast Conference
+Belmont University,84,70,Big Ten Conference
+Lipscomb University,66,58,Big Ten Conference
+East Tennessee State University,58,42,Southeastern Conference
+University of Memphis,60,43,Western Athletic Conference
+Middle Tennessee State University,64,44,Southeastern Conference
+University of Tennessee at Chattanooga,64,43,Big Sky Conference
+"University of Tennessee, Knoxville",64,70,The Summit League
+University of Tennessee at Martin,59,48,Big Ten Conference
+Tennessee State University,47,33,Mountain West Conference
+Tennessee Technological University,68,51,Mountain West Conference
+Vanderbilt University,85,92,America East Conference
+Abilene Christian University,51,62,Mountain West Conference
+Baylor University,70,73,Southland Conference
+Texas A&M University-Corpus Christi,49,37,Big South Conference
+Houston Baptist University,60,42,Colonial Athletic Association
+University of Houston,58,51,Atlantic Coast Conference
+University of the Incarnate Word,59,51,Big Sky Conference
+Lamar University,54,32,ASUN Conference
+University of North Texas,62,52,Conference USA
+The University of Texas Rio Grande Valley,53,42,Big Sky Conference
+Prairie View A&M University,51,30,Missouri Valley Conference
+Rice University,81,92,Atlantic Coast Conference
+Sam Houston State University,57,52,Big 12 Conference
+Southern Methodist University,67,79,Pac-12 Conference
+Stephen F. Austin State University,52,43,The Ivy League
+Texas State University,64,54,Atlantic Coast Conference
+"Texas A&M University, College Station",70,82,West Coast Conference
+University of Texas at Arlington,57,47,Atlantic 10 Conference
+University of Texas at Austin,68,81,Atlantic 10 Conference
+University of Texas at El Paso,58,39,West Coast Conference
+Texas Christian University,65,78,West Coast Conference
+University of Texas at San Antonio,61,34,Sun Belt Conference
+Texas Southern University,46,18,ASUN Conference
+Texas Tech University,62,60,Southeastern Conference
+Brigham Young University,67,81,The Summit League
+Southern Utah University,62,41,American Athletic Conference
+Utah State University,67,48,Pac-12 Conference
+Utah Valley University,59,25,Southern Conference
+University of Utah,68,61,Ohio Valley Conference
+Weber State University,59,36,Southeastern Conference
+University of Vermont,71,75,Sun Belt Conference
+College of William & Mary,88,91,Big 12 Conference
+George Mason University,74,69,Conference USA
+Hampton University,61,61,Conference USA
+James Madison University,79,82,Southland Conference
+Liberty University,71,48,West Coast Conference
+Longwood University,69,67,Mid-American Conference
+Norfolk State University,54,37,Pac-12 Conference
+Old Dominion University,68,52,America East Conference
+Radford University,69,58,Atlantic Coast Conference
+University of Richmond,82,87,Pac-12 Conference
+Virginia Polytechnic Institute and State University,67,84,Horizon League
+Virginia Commonwealth University,64,62,Big Ten Conference
+University of Virginia,79,94,Horizon League
+Virginia Military Institute,71,75,Mountain West Conference
+Eastern Washington University,60,47,Mountain West Conference
+Gonzaga University,76,84,Western Athletic Conference
+Seattle University,79,76,Missouri Valley Conference
+Washington State University,60,65,Southeastern Conference
+University of Washington,73,84,Big East Conference
+Marshall University,65,46,Atlantic 10 Conference
+West Virginia University,64,57,Southern Conference
+Marquette University,77,80,Atlantic Coast Conference
+University of Wisconsin-Green Bay,66,49,Northeast Conference
+University of Wisconsin-Madison,72,86,Atlantic Coast Conference
+University of Wisconsin-Milwaukee,63,45,Pac-12 Conference
+University of Wyoming,62,56,Big Sky Conference
+Stanford University,94,94,Big 12 Conference
+Purdue University,73,76,Southern Conference
+Florida Gulf Coast University,53,46,The Summit League
+Kennesaw State University,53,42,Conference USA
+,,,Mid-American Conference
+,,,American Athletic Conference
+,,,Big South Conference
+,,,Southern Conference
+,,,Horizon League
+,,,Big East Conference
+,,,The Ivy League
+,,,Horizon League
