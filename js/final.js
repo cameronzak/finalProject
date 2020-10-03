@@ -108,7 +108,7 @@ var drawLabels1 = function(graph1,margins)
 
 
 var initGraph1 = function(gradRates)
-{   console.log(diffGradRates(gradRates))
+{   
     var screen = {width:800,height:600}
     var margins ={left:50,right:50,top:50,bottom:50}
     
@@ -138,10 +138,70 @@ var initGraph1 = function(gradRates)
     drawAxes1(graph1,margins,xScale,yScale);
     drawBars1(gradRates,target,graph1,xScale,yScale);
     drawLabels1(graph1,margins);
-    //drawLegend1(graph1,margins);
-    
 }
 
+//Bar Graph 2 -- wellbeing
+var drawBars2 = function(wellbeings,target,graph2,xScale,yScale)
+{
+   target.selectAll("rect")
+        .data(wellbeings)
+        .enter()
+        .append("rect")
+        .attr("x",function(wellbeing)
+        { 
+            return xScale(wellbeing.wellbeing)
+        })
+        .attr("y",function(wellbeing)
+        {
+            return yScale(wellbeing.sa)
+        })
+        .attr("width",xScale.bandwidth)
+        .attr("height",function(wellbeing)
+        {
+            return graph.height - yScale(wellbeing.sa)
+        })
+}
+
+var initGraph2 = function(wellbeings)
+{
+    var screen = {width:800,height:600}
+    var margins ={left:30,right:30,top:30,bottom:30}
+    
+    var graph2 = 
+        {
+            width:screen.width-margins.left-margins.right,
+            height:screen.height-margins.top-margins.bottom
+        };
+    
+    d3.select("#graph2")
+        .attr("width",screen.width)
+        .attr("height",screen.height)
+    
+    var target = d3.select("#graph2")
+    .append("g")
+    .attr("id","#graph")
+    .attr("transform", "translate("+margins.left+","+margins.top+")");
+    
+    var xScale = d3.scaleBand()
+        .domain(["Purpose","Social","Financial","Community","Physical"])
+        .range([0,graph2.width])
+    
+    var yScale =d3.scaleLinear()
+        .domain([0,100])
+        .range([graph2.height,0])
+    
+    //drawAxes2(graph2,margins,xScale,yScale);
+    
+    var g0 = target.append("g")
+        .attr("transform","translate(-50,0)")
+    drawBars2(wellbeings[0],g0,graph2,xScale,yScale);
+    
+    var g1 = target.append("g")
+        .attr("transform","translate(50,0)")
+    drawBars2(wellbeings[1],g1,graph2,xScale,yScale);
+    
+    //drawLabels2(graph2,margins);
+}
 
 var employmentPromise = d3.csv("../csv/employment.csv")
 var experiencePromise = d3.csv("../csv/experience.csv")
@@ -161,10 +221,11 @@ var succFCN = function(data)
     var leadership = data[4]
     var sportGradRate = data[5]
     var studentLoans = data[6]
-    var wellbeing = data[7]
+    var wellbeings = data[7]
     
     console.log("data",data)
     initGraph1(gradRates)
+    initGraph2(wellbeings)
     
   
 }
