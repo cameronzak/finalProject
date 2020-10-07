@@ -2,11 +2,39 @@
 
 <link rel="stylesheet" href="../css1/dashboard.css">
 <body>
-<h1>Student Athletes</h1>  
-<svg id="graph1"></svg>
-<svg id="graph2"></svg>
+    <h1>Interactive Dashboard for Student Athletes</h1>
+    <h2>Graduation Rates</h2>
     
-  
+    
+    <div id="div">
+        <p id="confHead">Choose a division 1 athletic conference to look at:</p>
+    </div>
+    
+    <div id="div1">
+        <svg id="graph1"></svg>
+        <svg><line x1="400" y1="400" x2="700" y2="400" stroke="black" stroke-width="3"></line></svg>
+        <div class="hidden" id="tooltip">
+            <div id="school"></div>
+            <div id="percent"></div>
+        </div>
+                                
+    </div>
+    
+    <div id="div2"><h2>Undergraduate Experience</h2></div>
+    
+    <div id="undergrad"> 
+        <div id="div3">
+            <svg id="graph2"></svg>
+        </div>
+        <div id="div5">
+            <svg id="graph4"></svg>
+        </div>
+        <div id="div4">
+            <svg id="graph3"></svg>
+        </div>
+    </div>
+    
+<a id="main" href="../html/index.html">Return to Main Page</a>
 <script src="https://d3js.org/d3.v5.min.js"></script>   
 <script src="../js/final.js"></script>  
     

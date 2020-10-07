@@ -1,0 +1,125 @@
+body
+{
+    background-color:azure;
+}
+
+h1
+{
+    text-align:center;
+    font-size: 50px;
+    color: white;
+    border: 5px solid white;
+    background-color: darkblue;
+}
+
+#dashboard
+{
+    float:middle;
+    font-weight:bold;
+    width:1250px;
+    font-size:20px;
+    background-color:white;
+    border:8px solid navy;
+    border-radius:5px;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:30px;
+    margin-left:65px;
+    text-align:center;
+}
+
+#action
+{
+    position:absolute;
+    left:425px;
+    top:375px;
+    width:575px;
+    border:4px solid navy;
+    background-color:white;
+    z-index:-1;
+
+}
+
+.title
+{
+    font-size:20px;
+}
+
+.hidden 
+{
+    display:none;
+}
+
+.hidden2
+{
+    display:none;
+}
+
+#second
+{
+    position:absolute;
+    left:425px;
+    top:375px;
+    width:575px;
+    border:4px solid navy;
+    background-color:white; 
+}
+
+#tooltip 
+{
+    position:absolute;
+    width:auto;
+    height:auto;
+    padding:10px;
+    background-color: white;
+    color:navy;
+    border:1px solid navy;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px rgba (0,0,0,0.4);
+    pointer-events:none;
+}
+#saBars
+{
+    fill:darkblue;
+    stroke:white;
+    stroke-width:3
+}
+
+#sbBars
+{
+    fill:lightblue;
+    stroke:white;
+    stroke-width:3
+}
+
+.sa
+{
+    fill:darkblue;
+}
+
+.sb
+{
+    fill:lightblue;
+}
+
+#button
+{
+    position:absolute;
+    top:475px;
+    left:200px;
+    width:200px;
+}
+
+button
+{
+    color:white;
+    background-color:navy;
+    border:3px solid navy;
+    border-radius:5px;
+}
+#main
+{
+    position:absolute;
+    top:90px;
+    left:10px;
+}

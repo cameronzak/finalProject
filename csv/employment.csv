@@ -1,3 +1,7 @@
-﻿,jobWaiting,twoMonths,threeMonths,sevenMonths,year,notSeeking
-sa,33,15,16,8,15,14
-nonSA,30,14,14,7,16,19
+﻿time,sa,sb
+had_job_waiting,33,30
+two_months_or_less,15,14
+three_months_to_six_months,16,14
+seven_months_to_one_year,8,7
+more_than_one_year,15,16
+not_seeking_employment,14,19
